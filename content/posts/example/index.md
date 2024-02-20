@@ -9,159 +9,35 @@ description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfa
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 {{<lead>}}
+
+Während sich die Welt um uns verändert und die Technologie voranschreitet, bleibt die Geschichte der     Filme lebendig – das Lichtspiel-Team in Bern trägt dazu bei, diese Geschichte in ihrer ganzen Faszination am Leben zu erhalten. Jeden Tag zaubert das kleine Team in Bern wahre Magie, um anderen zu helfen, sich daran zu erinnern, wie die Filmindustrie in der Vergangenheit wirklich war. 
+
+{{</lead>}}
+
+![Schätze aus der Vergangenheit an der Sandrainstrasse 3 in Bern (Fotografie von Yuna Andres und Sofiia Bublyk, Stand: 20.12.2023)](whatsapp-bild-2024-01-30-um-14.52.10_fb6ca00d.jpg)
+
+Während die Kaffeemaschine leise vor sich hin-summt und sich in die Melodie des Ortes einfügt, zieht ein Hauch von Nostalgie durch die Luft. Dieser wird durchdrungen von den unzähligen alten Filmprojektoren, welche wie stumme Zeugen der Filmgeschichte die Räume umgeben. Ein gedämpftes Hallen von Schritten auf dem polierten Betonboden ist zu hören. Es ist ein Ort, der wie eine Zeitkapsel wirkt. Ein Ort voller Schätze und Geschichten, die sich in jedem Winkel verbergen. In den Tiefen von Bern, wo die Vergangenheit auf die Gegenwart trifft, verbirgt sich ein Ort, der mehr als nur ein Kino ist: die Kinemathek Lichtspiel. Hier, zwischen den schlichten Barhockern und den bequemen Kinosesseln, spürt man den Puls der Vergangenheit, der in den Schriftzügen der Neonlichter rhythmisch zu flackern scheint. Die Wände, geschmückt mit Filmplakaten, die wie Fenster in andere Welten wirken, erzählen von einer Zeit, in der das Kino noch ein Ereignis war, ein gesellschaftliches Spektakel. Ein gedämpftes Licht strömt durch das Oberlicht und schafft eine Atmosphäre, die zum Verweilen, Entdecken und Erkunden einlädt. In jeder Ecke, auf jedem Regal, in jedem Glasvitrinenschrank findet sich ein Stück Filmgeschichte, sei es eine alte Filmrolle, eine seltene Kamera oder eine vergessene Requisite. Hier verbindet sich die Liebe zum Detail mit der Leidenschaft für das Kino, und das Ergebnis ist ein lebendiges Museum, ein aktives Archiv, das nicht nur bewahrt, sondern auch belebt wird. Mit jedem Film, der hier vorgeführt wird, mit jeder Führung, die durch diese Räume geleitet wird, lebt die Geschichte weiter und inspiriert die Besucher, sich auf eine Reise durch die Zeit zu begeben.
+
+###### Archiv: Schätze bergen und Filme auf die Leinwand Zurückholen
+
 <!--StartFragment-->
 
-# Während sich die Welt um uns verändert und die Technologie voranschreitet, bleibt die Geschichte der     Filme lebendig – das Lichtspiel-Team in Bern trägt dazu bei, diese Geschichte in ihrer ganzen Faszination am Leben zu erhalten. Jeden Tag zaubert das kleine Team in Bern wahre Magie, um anderen zu helfen, sich daran zu erinnern, wie die Filmindustrie in der Vergangenheit wirklich war. 
+Er scheint wie ein verborgener Schatz, den viele Menschen nicht bemerken, aber für diejenigen, die ihn entdecken, wird er zu einer Quelle endloser Faszination. Ein riesiges Backsteingebäude, das von der Brücke aus gut sichtbar ist. Tagsüber ist es unscheinbar, aber abends kann man von den Fenstern aus den Glanz der Lichtshow sehen. Eine lange Treppe führt hinauf zu dem Ort, an dem die Zeit stillsteht. Die Türen knarren leise, wenn sie sich öffnen, und der Geruch von Nostalgie und Geschichte liegt in der Luft. Drinnen ist es still, nur das Geräusch von laufenden Maschinen ist zu hören, und plötzlich wird man von einem der Lichtspiel-Mitarbeiter begrüßt. Sein Name ist Raff Fluri und er arbeitet als technischer Leiter  für Veranstaltungen und Ausstellungen der Kinemathek Lichtspiel. «Wir bringen Vergangenheit und Gegenwart zusammen, indem wir alte Filme in diesem einzigartigen Lichtspielhaus zeigen. Das ist eine Möglichkeit, Filmgeschichten aufleben zu lassen und die alten Schätze einem neuen Publikum zugänglich zu machen» - erzählt Raff Fluri leidenschaftlich von der Geschichte des Lichtspiels und der Bedeutung dieser alten Filme für die Kultur und die Gesellschaft. Er führt uns durch die verwinkelten Gänge des Lichtspielhauses, vorbei an den staubigen Regalen des Filmarchivs und den antiken Projektoren im Hardware-Archiv. erzählt leidenschaftlich von der Geschichte des Lichtspiels und der Bedeutung dieser alten Filme für die Kultur und die Gesellschaft.
 
-<!--EndFragment-->
-{{</lead>}}
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
-# Überschrift 1
+Ein Herzstück der Kinemathek ist das Filmarchiv, das aus etwa 25’000 Filmen besteht. Hierbei handelt es sich größtenteils um Kurzfilme. Meist sind dies Werke, die in anderen Kinos oft keinen Platz mehr finden, aber hier Aufmerksamkeit erhalten. Dazu gehören kleine Produktionen, experimentelle Werke, Animationsfilme, Musikvideos, Wochenschauen und Amateurfilmbeiträge. Diese Filme werden nach strengen Standards gesichtet, detailliert in die Datenbank aufgenommen und für die Archivierung vorbereitet. Das Archiv dient als zentrales Instrument für die Arbeit der Kinemathek, von dem aus private und öffentliche Filmprogramme ausgewählt werden (können). Verbunden mit den Katalogen der internationalen Vereinigung der Filmarchive (FIAF), trägt es zur Sichtbarkeit und Forschung bei. Zusätzlich zum Filmarchiv existiert ein Hardware-Archiv, das Gerätschaften zur Filmvorbereitung und -projektion aus verschiedenen Epochen sammelt und bewahrt. Diese Zeitzeugen werden erfasst, revidiert und im Schaulager untergebracht. Manchmal werden sie nach Wartung wieder in Betrieb genommen, während in anderen Fällen Ersatzteile für die Werkstatt gewonnen werden. Dies wird alles durch ein Team aus 27 Personen ermöglicht. In diesem engagierten Team, das sich fast wie eine Familie versteht, hilft jeder jedem, wie es in einem Interview mit einem Teammitglied (Raff Fluri) betont wurde: "Da wir auch ein kleines Team sind und jeder jedem hilft, ist das hier fast schon wie eine kleine Familie." Durch die funktionierende Teamarbeit wird es ermöglicht, das Archiv in Gang zu halten. 
 
-So sieht die grösste Überschrift aus (H1).
 
-## Überschrift 2
 
-Dies ist die Überschrift 2 (H2).
+Die Sammlung an Papierdokumenten bildet einen weiteren Teil des Archivs, reichend von Filmplakaten bis zu Handbüchern für verschiedene Geräte. Diese historischen Dokumente werden sorgfältig bewahrt, und auf Anfrage gewährt die Kinemathek Einsicht in diese Schätze. Ihr Ziel ist es, ein Archiv bereitzustellen, das zugänglich und lebendig bleibt, Sichtbarkeit besitzt und weiterhin genutzt wird, ohne dabei die Integrität der Archivbestände zu beeinträchtigen. Der Fokus liegt dabei auf der Bewahrung der Authentizität und Integrität des Kulturerbes. Die Digitalisierung sieht die Kinemathek Lichtspiel nicht als Ersatz, sondern als Ergänzung zur analogen Archivarbeit. Es werden Strategien entwickelt, um den besonderen Charme und die Atmosphäre des Lichtspiels auch im digitalen Raum zu bewahren. In diesem Sinne definiert sich die Kinemathek als ein modernes, vielseitig zugängliches und qualitativ hochwertiges Archiv.
 
-### Überschrift 3
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
 
-#### Überschrift 4
+###### Museum: Bewahren und sichtbar machen 
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
+An der Sandrainstrasse 3 in Bern bringt das Lichtspiel-Team Filme aus der Vergangenheit zurück. In öffentlich zugänglichen Räumen werden Artefakte der Kinogeschichte gesammelt, bewahrt und präsentiert. Ein sich ständig veränderndes Schaulager beherbergt Maschinen, Utensilien von Filmsets und weiteres Kinomaterial. Projektoren in allen Formen und Farben, Visionierungstische, Kameras, Stative und Plakate. Zusätzlich prägt eine einzigartige Sammlung von Laterna Magicas das Erscheinungsbild des Lichtspiels. Diese umfangreiche Sammlung, grosszügig vom Nachlass von Heinz Leuenberger überlassen, ist in einem eigen dafür gestalteten Raum zu bewundern und dokumentiert eine wichtige Entwicklungsphase in der Geschichte der Kinemathek Lichtspiel. Die Kinemathek betrachtet das Museum als Vermittlungsort durch verschiedenste Versuchs Möglichkeiten. Die Sammlung und Konservierung der Objekte sind Hauptanliegen, aber ebenso wichtig ist es, die Gerätschaften funktionsfähig zu halten. Dies geschieht durch das Team des Lichtspiel Berns, doch wie im Interview durch Raff Fluri angedeutet steht nicht viel Geld zur Verfügung; "Von mir aus gesehen ist man wirklich wegen dem Team auch da, weil viel Geld verdient man nicht, oder es ist nicht sehr viel Geld vorhanden für eine Institution wie unsere." Um Geld geht es den Mitarbeitern der Kinemathek Lichtspiel nicht, der Schwerpunkt liegt auf der Erhaltung der Vergangenheit und wie ebenfalls erwähnt auf der guten Atmosphäre zwischen den Teammitgliedern, welche die Zusammenarbeit mit Gleichgesinnten ermöglichen. Die Restaurierungsprojekte dienen nicht nur der Erhaltung, sondern ermöglichen es auch, die Geräte für Vorführungen zu nutzen. 
 
-## Weitere Textformatierungen
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
 
-### Fett und Kursiv
-
-Natürlich gibt es auch **fett** und *kursiv*.
-
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> *Autor mit [Link zur Quelle](https://www.lilo.blog)*
-
-Die Quellenangabe muss *kursiv* geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-* Nam de isto magna dissensio est.
-* Mihi, inquam, qui te id ipsum rogavi?
-* Haec et tu ita posuisti, et verba vestra sunt.
-* Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
-
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
-- - -
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`\
-Ein Lead steht zwischen zwei solchen Blöcken.\
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`\
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`\
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+Als Institution ist die Kinemathek Mitglied der Museen Bern und kooperiert mit anderen Museen auf verschiedenen Ebenen. Dennoch prägt das Lichtspiel einen eigenen "Museums-Ansatz" – verspielt, neugierig, begehbar, sichtbar, riechbar und hörbar. Die Kinemathek Lichtspiel bleibt somit nicht nur ein Ort der Vergangenheit, sondern auch ein lebendiger Raum für die Zukunft der Filmkultur.
