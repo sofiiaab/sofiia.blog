@@ -14,8 +14,6 @@ Während sich die Welt um uns verändert und die Technologie voranschreitet, ble
 
 {{</lead>}}
 
-
-
 Yuna Andres und Sofiia Bublyk
 
 ![Schätze aus der Vergangenheit an der Sandrainstrasse 3 in Bern (Fotografie von Yuna Andres und Sofiia Bublyk, Stand: 20.12.2023)](whatsapp-bild-2024-01-30-um-14.52.10_fb6ca00d.jpg)
