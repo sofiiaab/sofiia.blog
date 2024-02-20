@@ -1,7 +1,7 @@
 +++
 title = "Die Rückkehr der Vergangenheit in die Gegenwart "
 date = "2024-02-20"
-draft = true
+draft = false
 pinned = false
 tags = ["Lilo", "Example"]
 image = "whatsapp-bild-2024-01-30-um-14.52.10_fb6ca00d.jpg"
