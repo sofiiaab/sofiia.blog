@@ -37,3 +37,15 @@ Die Sammlung an Papierdokumenten bildet einen weiteren Teil des Archivs, reichen
 An der Sandrainstrasse 3 in Bern bringt das Lichtspiel-Team Filme aus der Vergangenheit zurück. In öffentlich zugänglichen Räumen werden Artefakte der Kinogeschichte gesammelt, bewahrt und präsentiert. Ein sich ständig veränderndes Schaulager beherbergt Maschinen, Utensilien von Filmsets und weiteres Kinomaterial. Projektoren in allen Formen und Farben, Visionierungstische, Kameras, Stative und Plakate. Zusätzlich prägt eine einzigartige Sammlung von Laterna Magicas das Erscheinungsbild des Lichtspiels. Diese umfangreiche Sammlung, grosszügig vom Nachlass von Heinz Leuenberger überlassen, ist in einem eigen dafür gestalteten Raum zu bewundern und dokumentiert eine wichtige Entwicklungsphase in der Geschichte der Kinemathek Lichtspiel. Die Kinemathek betrachtet das Museum als Vermittlungsort durch verschiedenste Versuchs Möglichkeiten. Die Sammlung und Konservierung der Objekte sind Hauptanliegen, aber ebenso wichtig ist es, die Gerätschaften funktionsfähig zu halten. Dies geschieht durch das Team des Lichtspiel Berns, doch wie im Interview durch Raff Fluri angedeutet steht nicht viel Geld zur Verfügung; *"Von mir aus gesehen ist man wirklich wegen dem Team auch da, weil viel Geld verdient man nicht, oder es ist nicht sehr viel Geld vorhanden für eine Institution wie unsere."* Um Geld geht es den Mitarbeitern der Kinemathek Lichtspiel nicht, der Schwerpunkt liegt auf der Erhaltung der Vergangenheit und wie ebenfalls erwähnt auf der guten Atmosphäre zwischen den Teammitgliedern, welche die Zusammenarbeit mit Gleichgesinnten ermöglichen. Die Restaurierungsprojekte dienen nicht nur der Erhaltung, sondern ermöglichen es auch, die Geräte für Vorführungen zu nutzen. 
 
 Als Institution ist die Kinemathek Mitglied der Museen Bern und kooperiert mit anderen Museen auf verschiedenen Ebenen. Dennoch prägt das Lichtspiel einen eigenen "Museums-Ansatz" – verspielt, neugierig, begehbar, sichtbar, riechbar und hörbar. Die Kinemathek Lichtspiel bleibt somit nicht nur ein Ort der Vergangenheit, sondern auch ein lebendiger Raum für die Zukunft der Filmkultur.
+
+{{<box>}}
+
+**Zur Institution:**
+
+Das Lichtspiel wurde 2012 gegründet in Bern und ist seit 10 Jahren am aktuellen Standort in der Sandrainstrasse 3 in Bern. Seit der Eröffnung des Lichtspiels werden jeden Sonntagabend zwei Filmrollen mit kurzen Filmen aus dem Archiv zusammengestellt und ermöglichen einen Einblick in die Filmsammlung der Kinemathek. Im Weiteren finden thematische Filmzyklen und Retrospektiven statt. 
+
+**Zur interviewten Person:**
+
+Raff Fluri arbeitet seit 2020 in der Kinemathek Lichtspiel, als technischer Leiter für Veranstaltungen und Ausstellungen.
+
+{{<box>}}
