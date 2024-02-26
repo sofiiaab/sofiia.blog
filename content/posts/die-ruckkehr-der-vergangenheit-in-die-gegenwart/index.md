@@ -16,7 +16,7 @@ Während sich die Welt um uns verändert und die Technologie voranschreitet, ble
 
 Yuna Andres und Sofiia Bublyk
 
-![Schätze aus der Vergangenheit an der Sandrainstrasse 3 in Bern (Fotografie von Yuna Andres und Sofiia Bublyk, Stand: 20.12.2023)](whatsapp-bild-2024-01-30-um-14.52.10_fb6ca00d.jpg)
+![Schätze aus der Vergangenheit an der Sandrainstrasse 3 in Bern (Fotografie von Yuna Andres und Sofiia Bublyk.Stand: 20.12.2023)](whatsapp-bild-2024-01-30-um-14.52.10_fb6ca00d.jpg)
 
 Während die Kaffeemaschine leise vor sich hin summt und sich in die Melodie des Ortes einfügt, zieht ein Hauch von Nostalgie durch die Luft. Dieser wird durchdrungen von den unzähligen alten Filmprojektoren, welche wie stumme Zeugen der Filmgeschichte die Räume umgeben. Ein gedämpftes Hallen von Schritten auf dem polierten Betonboden ist zu hören. Es ist ein Ort, der wie eine Zeitkapsel wirkt, voller Schätze und Geschichten, die sich in jedem Winkel verbergen. In den Tiefen von Bern, wo die Vergangenheit auf die Gegenwart trifft, verbirgt sich ein Ort, der mehr als nur ein Kino ist: die Kinemathek Lichtspiel. Hier, zwischen den schlichten Barhockern und den bequemen Kinosesseln, spürt man den Puls der Vergangenheit, der in den Schriftzügen der Neonlichter rhythmisch zu flackern scheint. Die Wände, geschmückt mit Filmplakaten, die wie Fenster in andere Welten wirken, erzählen von einer Zeit, in der das Kino noch ein Ereignis war, ein gesellschaftliches Spektakel. Ein gedämpftes Licht strömt durch das Oberlicht und schafft eine Atmosphäre, die zum Verweilen, Entdecken und Erkunden einlädt. In jeder Ecke, auf jedem Regal, in jeder Glasvitrine findet sich ein Stück Filmgeschichte, sei es eine alte Filmrolle, eine seltene Kamera oder eine vergessene Requisite. Hier verbindet sich die Liebe zum Detail mit der Leidenschaft für das Kino, und das Ergebnis ist ein lebendiges Museum, ein aktives Archiv, das nicht nur bewahrt, sondern auch belebt wird. Mit jedem Film, der hier vorgeführt wird, mit jeder Führung, die durch diese Räume geleitet wird, lebt die Geschichte weiter und inspiriert die Besucher, sich auf eine Reise durch die Zeit zu begeben.
 
@@ -43,8 +43,6 @@ Die Sammlung an Papierdokumenten bildet einen weiteren Teil des Archivs, reichen
 #### Museum: Bewahren und sichtbar machen
 
 An der Sandrainstrasse 3 in Bern bringt das Lichtspiel-Team Filme aus der Vergangenheit zurück. In öffentlich zugänglichen Räumen werden Artefakte der Kinogeschichte gesammelt, bewahrt und präsentiert. Ein sich ständig veränderndes Schaulager beherbergt Maschinen, Utensilien von Filmsets und weiteres Kinomaterial. Projektoren in allen Formen und Farben, Visionierungstische, Kameras, Stative und Plakate. Zusätzlich prägt eine einzigartige Sammlung von Laterna Magicas das Erscheinungsbild des Lichtspiels. Diese umfangreiche Sammlung, grosszügig vom Nachlass von Heinz Leuenberger überlassen, ist in einem eigen dafür gestalteten Raum zu bewundern und dokumentiert eine wichtige Entwicklungsphase in der Geschichte der Kinemathek Lichtspiel.
-
-
 
 ![Erscheinungsbild des Lichtspiels - Laterna Magicas. an der Sandrainstrasse 3 in Bern (Fotografie von Yuna Andres und Sofiia Bublyk, Stand: 31.12.2023)](whatsapp-bild-2024-01-30-um-14.54.49_aa66703f.jpg)
 
