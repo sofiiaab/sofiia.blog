@@ -13,7 +13,7 @@ In einer Zeit des digitalen Wandels und der kulturellen Transformation ist das L
 
 Yuna Andres und Sofiia Bublyk 
 
-![Teil des Lichtspiel-Teams Raff Fluri vor der Sammlung der Institution (verfügbar unter www.swissfilms.ch Stand: 20.12.2023)](fluri_raff_24fcc905086d45bf867c35953cf929cb.jpg)
+![Teil des Lichtspiel-Teams Raff Fluri  (verfügbar unter www.swissfilms.ch Stand: 20.12.2023)](fluri_raff_24fcc905086d45bf867c35953cf929cb.jpg)
 
 <!--StartFragment-->
 
@@ -80,7 +80,5 @@ Das Lichtspiel wurde 2012 gegründet in Bern und ist seit 10 Jahren am aktuellen
 Raff Fluri, geboren 1980 in Bern, Schweiz. Seit 2004 in der Kinobranche sowie als freischaffender Filmemacher tätig. 2018-19 Studium an der FAMU International (Film and TV School of the Academy of Performing Arts) in Prag. Seit 2020 arbeitet Raff Fluri in der Kinemathek Lichtspiel, als technischer Leiter für Veranstaltungen und Ausstellungen.
 
 {{</box>}}
-
-
 
 <!--EndFragment-->
