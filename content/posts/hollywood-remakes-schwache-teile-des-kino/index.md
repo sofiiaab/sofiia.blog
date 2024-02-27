@@ -27,7 +27,7 @@ Es gibt verschiedene Ausbildungen, da meine Arbeit interdisziplinär ist. Techni
 
 #### Was ist für Sie bei der Arbeit wichtig? Die Zusammenarbeit im Team?
 
-Absolut. Der Teamaspekt ist entscheidend, da die finanziellen Ressourcen begrenzt sind, besonders in der Kulturbranche. "Von mir aus gesehen ist man wirklich wegen dem Team auch da, weil viel Geld verdient man nicht, oder es ist nicht sehr viel Geld vorhanden für eine Institution wie unsere." Doch die Motivation entsteht aus Freude an der Arbeit und der Überzeugung, dass es wichtig ist, das audiovisuelle Erbe der Schweiz zu bewahren und zugänglich zu machen.
+Absolut. Der Teamaspekt ist entscheidend, da die finanziellen Ressourcen begrenzt sind, besonders in der Kulturbranche. *"Von mir aus gesehen ist man wirklich wegen dem Team auch da, weil viel Geld verdient man nicht, oder es ist nicht sehr viel Geld vorhanden für eine Institution wie unsere."* Doch die Motivation entsteht aus Freude an der Arbeit und der Überzeugung, dass es wichtig ist, das audiovisuelle Erbe der Schweiz zu bewahren und zugänglich zu machen.
 
 #### Können Sie uns etwas über die Highlights der Sammlung des Lichtspiels und ihre Bedeutung in der Filmgeschichte erzählen?
 
@@ -35,7 +35,7 @@ Die Sammlung ist umfangreich, und wir arbeiten ständig daran, sie zu pflegen. A
 
 #### Wie organisieren Sie die vielfältigen Aufgaben im Lichtspiel?
 
-Die Koordination ist eine immense Aufgabe, besonders weil wir viele Festangestellte mit unterschiedlichen Teilzeitanstellungen haben. Die Herausforderung besteht darin, die Zusammenarbeit und den Austausch zu optimieren, da wir oft nicht alle gleichzeitig anwesend sind. "Es ist wirklich für jede Institution eine Herausforderung, so viele Aufgaben unter einem Dach aufzuteilen und zu koordinieren. Das ist immer ein Problem, das ständig da ist, dass man viel zu viele Sachen, viel zu viel Arbeit und viel zu wenig Ressourcen hat."
+Die Koordination ist eine immense Aufgabe, besonders weil wir viele Festangestellte mit unterschiedlichen Teilzeitanstellungen haben. Die Herausforderung besteht darin, die Zusammenarbeit und den Austausch zu optimieren, da wir oft nicht alle gleichzeitig anwesend sind. *"Es ist wirklich für jede Institution eine Herausforderung, so viele Aufgaben unter einem Dach aufzuteilen und zu koordinieren. Das ist immer ein Problem, das ständig da ist, dass man viel zu viele Sachen, viel zu viel Arbeit und viel zu wenig Ressourcen hat."*
 
 #### Wie entstand das Lichtspiel, und gab es einen speziellen Grund für seine Gründung?
 
@@ -43,7 +43,7 @@ Ursprünglich war es die Sammlung eines Kinotechnikers, Walt Richard, der viele 
 
 #### Was macht eure Herangehensweise besonders im Vergleich zu anderen Kinos?
 
-Wir zeichnen uns durch ein vielfältiges Programm aus, zeigen nicht täglich denselben Film, haben spezielle Reihen, Filmpremieren und ein Überraschungsprogramm am Sonntagabend. "Bei uns hat eine Kinovorführung viel mehr noch diesen Eventcharakter als bei einem Mainstream Kino, wo halt immer derselbe Film einfach automatisiert durchläuft. Wir versuchen auch jeden Film einzuführen, also dass jemand zuvor die Zuschauer begrüsst und noch ein paar Worte dazu sagt." Ausserdem bieten wir Filmrestaurierung und Digitalisierung mit professionellem Know-how an.
+Wir zeichnen uns durch ein vielfältiges Programm aus, zeigen nicht täglich denselben Film, haben spezielle Reihen, Filmpremieren und ein Überraschungsprogramm am Sonntagabend. *"Bei uns hat eine Kinovorführung viel mehr noch diesen Eventcharakter als bei einem Mainstream Kino, wo halt immer derselbe Film einfach automatisiert durchläuft. Wir versuchen auch jeden Film einzuführen, also dass jemand zuvor die Zuschauer begrüsst und noch ein paar Worte dazu sagt."* Ausserdem bieten wir Filmrestaurierung und Digitalisierung mit professionellem Know-how an.
 
 #### Wie werden die Filme im Archiv konserviert und geschützt?
 
@@ -78,5 +78,3 @@ Das Lichtspiel wurde 2012 gegründet in Bern und ist seit 10 Jahren am aktuellen
 Raff Fluri, geboren 1980 in Bern, Schweiz. Seit 2004 in der Kinobranche sowie als freischaffender Filmemacher tätig. 2018-19 Studium an der FAMU International (Film and TV School of the Academy of Performing Arts) in Prag. Seit 2020 arbeitet Raff Fluri in der Kinemathek Lichtspiel, als technischer Leiter für Veranstaltungen und Ausstellungen.
 
 {{</box>}}
-
-<!--EndFragment-->
