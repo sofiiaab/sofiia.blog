@@ -1,5 +1,5 @@
 +++
-title = "Hollywood-Remakes: Schwache Teile des Kino"
+title = "Einblicke in die Welt der Filmkultur"
 date = "2024-02-26"
 draft = false
 pinned = false
