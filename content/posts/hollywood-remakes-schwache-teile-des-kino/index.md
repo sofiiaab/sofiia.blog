@@ -13,7 +13,7 @@ In einer Zeit des digitalen Wandels und der kulturellen Transformation ist das L
 
 Yuna Andres und Sofiia Bublyk 
 
-![Teil des Lichtspiel-Teams Raff Fluri  (verfügbar unter www.swissfilms.ch Stand: 20.12.2023)](fluri_raff_24fcc905086d45bf867c35953cf929cb.jpg)
+![Teil des Lichtspiel-Teams Raff Fluri  (verfügbar unter https://www.swissfilms.ch Stand: 20.12.2023)](fluri_raff_24fcc905086d45bf867c35953cf929cb.jpg)
 
 Inmitten des vierten Stocks erstreckt sich eine bunte Vielfalt an Dekorationen, darunter Kameras, Plakate, Lichterketten, Maschinen und Jukeboxen unterschiedlicher Art und Größe. Ganz oben neben einer kleinen Bar nimmt Raff Fluri Platz, um seine persönliche Verbindung zum Lichtspiel zu teilen. Der 44 Jahre alte technische Leiter für Veranstaltungen und Ausstellungen ist seit 2020 fest angestellt, vertraut mit dem Lichtspiel ist er jedoch schon seit Anfang an. Nebenbei ist er Recorder, Produzent, Drehbuchautor, Cutter, Regisseur, Kameramann, Tonmischer, Sounddesigner und Komponist.
 
