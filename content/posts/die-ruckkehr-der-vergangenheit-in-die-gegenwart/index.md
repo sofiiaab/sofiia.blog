@@ -64,6 +64,8 @@ Das Sonntagsprogramm im Lichtspiel Bern überrascht seine Besucher stets aufs Ne
 
 Als Zusätzliche Veranstaltungen bietet die Kinemathek Lichtspiel verschiedene thematische Reihen, wie beispielsweise zur Filmgeschichte an und pflegt eine enge Zusammenarbeit mit dem Kino Rex, welches ebenfalls nicht kommerzielle Filme und Kinofilme aus der Vergangenheit auf seiner Leinwand zeigt. Sogar Premieren neuer Filme finden ihren Weg in das Lichtspiel Bern. Doch der Fokus liegt hauptsächlich auf den Sonntagabenden mit den Überraschungsprogrammen. Die Kinovorführungen tragen zu einem Erlebnis bei, das man im Mainstream Kino nicht mehr erleben kann. Das jeweilige Filmprogramm wird Zuschauern seit einigen Jahren auch von zu Hause aus zugänglich gemacht. Über einen Live-Stream, welcher über die Website “Vimeo” gestreamt wird, ist es für die Zuschauer seit einigen Jahren möglich, das Filmprogramm auch von zu Hause aus mitzuverfolgen.
 
+
+
 {{<box>}}
 
 **Zur Institution:**
